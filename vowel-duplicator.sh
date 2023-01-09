@@ -20,4 +20,4 @@ while read line ; do
 
 	done
 
-done < name.txt
+done < names.txt
